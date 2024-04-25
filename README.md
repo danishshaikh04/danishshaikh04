@@ -16,8 +16,6 @@ Web developer and designer
 
 * ✉️  You can contact me at [danishshaikh0595@gmail.com](mailto:danishshaikh0595@gmail.com)
 
-<a href="https://www.github.com/danishshaikh04" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danishshaikh04?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
