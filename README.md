@@ -6,13 +6,6 @@ Web developer and designer
 
 👨‍💻 Hi, I'm Mohd Danish Shaikh, a quick learner and passionate Web Developer with a B.Tech in Computer Science. I specialize in front-end development, with expertise in HTML, CSS, JavaScript, and React.js. Over the past 1.5 years, I've developed numerous innovative web projects from scratch, demonstrating a deep interest in web development and a commitment to staying updated with emerging technologies.
 
-🌟 During my tenure as a Python Developer at Dezignolics Web and Software Solutions, I gained valuable experience in backend development and software solutions. As a Web Development Intern at CodSoft, I honed my skills in front-end technologies and contributed to various web projects.
-
-🚀 One of my recent projects is a responsive Razorpay clone website built using Tailwind CSS, which replicates the sleek and intuitive interface of Razorpay, offering users a seamless payment experience across devices. I also developed a personal portfolio website showcasing my professional accomplishments and projects, designed with a focus on clean aesthetics and interactive elements.
-
-🌐 Currently, I'm exploring new technologies and enhancing my skills in web development. I have a keen interest in leveraging AI technologies, evident in my AI-powered chat application built with React.js and integrated with the Gemini API. 
-
-🔍 Check out my projects below to see my proficiency in front-end development, UI/UX design, and back-end technologies .
 
 * ✉️  You can contact me at [danishshaikh0595@gmail.com](mailto:danishshaikh0595@gmail.com)
 
