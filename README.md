@@ -13,7 +13,7 @@ Web developer and designer
 
 - 👨‍💻 All of my projects are available at [https://shaikhdanish.netlify.app/](https://shaikhdanish.netlify.app/)
 
-- 💬 Ask me about **Mondo, Express, Node, React,Tailwind, gsap**
+- 💬 Ask me about **Mongo db, Express, Node, React,Tailwind, gsap**
 
 - ✉️  You can contact me at [danishshaikh0595@gmail.com](mailto:danishshaikh0595@gmail.com)
 
