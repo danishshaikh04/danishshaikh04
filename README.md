@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I am Mohammed Danish Shaikh
 ==========================================================================================================================================
 
-Web developer and designer
+Web Developer and Designer
 --------------------------
 
 👨‍💻 Hi, I'm Mohd Danish Shaikh, a quick learner and passionate Web Developer with a B.E in Computer Science. I specialize in front-end development, with expertise in HTML, CSS, JavaScript, and React.js. Over the past 1.5 years, I've developed numerous innovative web projects from scratch, demonstrating a deep interest in web development and a commitment to staying updated with emerging technologies.
